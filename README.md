@@ -1,12 +1,15 @@
 
-<h1>Hello there!
+# Hello there! 
+
+Here I upload some personal projects related to aerospace engineering.\
+Feel free to have a look and reach out on linkedin!
   
-<h2>🚀 Projects:</h2>
+## 🚀 Projects:
 
 - <b> [Helicopter Simulator](https://github.com/Fsessini/) </b>
 - <b> [Unmanned Hexacopter Simulator](https://github.com/Fsessini/) </b>
 - <b> [Adaptive Controller of Helicopter Attitude](https://github.com/Fsessini/) </b>
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [Linkedin](https://www.linkedin.com/in/francesco-sessini)
