@@ -6,7 +6,7 @@ Feel free to have a look and reach out on linkedin!
   
 ## 🚀 Projects:
 
-- <b> [Helicopter Simulator](https://github.com/Fsessini/hermes) </b>
+- <b> [Helicopter Simulator](https://github.com/Fsessini/hermes) </b>: a 9-DoF helicopter model with tip-path-plane flapping dynamics implemented in MATLAB/Simulink
 - <b> [Adaptive Controller of Helicopter Attitude](https://github.com/Fsessini/) </b>
 - <b> [Unmanned Hexacopter Simulator](https://github.com/Fsessini/) </b>
 
